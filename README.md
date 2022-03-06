@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarahMunson
 - 👀 I’m interested in books and reading, health and wellness, music and dance, and community.
-- 🌱 I’m currently learning C# at Coding Dojo Boot Camp, Spanish with Busuu, 100 days of algorithms challenge 1/10/2022 -
-- 💞️ I’m looking to collaborate on habits mindsets, growth mindset, health goals, mentor/friendships.
+- 🌱 I’m currently learning Spanish with Busuu, 100 days of algorithms challenge 1/10/2022 -
+- 💞️ I’m looking to collaborate on habits mindsets, growth mindset, health goals, coding mentor/friendships.
 - 📫 How to reach me wordydreamsbiz@outlook.com
 
 <!---
